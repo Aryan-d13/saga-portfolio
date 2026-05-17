@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SM">
+  <rect width="64" height="64" rx="18" fill="#f8f4eb"/>
+  <path d="M44 10c7 8 7 19 1 26-6 8-18 9-25 3 1-10 8-22 24-29Z" fill="#829979"/>
+  <path d="M20 39c8-10 16-18 25-25" fill="none" stroke="#4f684d" stroke-width="3" stroke-linecap="round"/>
+  <text x="15" y="51" fill="#262722" font-family="Georgia, serif" font-size="21" font-weight="600">SM</text>
+</svg>
